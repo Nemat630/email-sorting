@@ -1,0 +1,74 @@
+[
+  {
+    "id": 101,
+    "subject": "Fakturan är högre än vanligt",
+    "text": "Hej, jag brukar betala 249 kr men den här månaden står det 399 kr. Jag förstår inte varför.",
+    "correct_category": "invoice"
+  },
+  {
+    "id": 102,
+    "subject": "Vill avsluta direkt",
+    "text": "Jag vill inte ha kvar abonnemanget längre. Kan ni avsluta det så snart som möjligt?",
+    "correct_category": "cancellation"
+  },
+  {
+    "id": 103,
+    "subject": "Behöver mer data",
+    "text": "Hej, jag har slut på surf varje månad. Jag vill byta till ett abonnemang med mer data.",
+    "correct_category": "plan_change"
+  },
+  {
+    "id": 104,
+    "subject": "Ingen täckning hemma",
+    "text": "Sedan några dagar tillbaka har jag nästan ingen täckning hemma och samtalen bryts hela tiden.",
+    "correct_category": "technical_issue"
+  },
+  {
+    "id": 105,
+    "subject": "Ta med mitt gamla nummer",
+    "text": "Jag funderar på att bli kund hos er men vill fortsätta använda mitt nuvarande mobilnummer. Hur fungerar det?",
+    "correct_category": "number_transfer"
+  },
+  {
+    "id": 106,
+    "subject": "Vilka abonnemang har ni?",
+    "text": "Hej, jag vill bara veta vilka mobilabonnemang ni erbjuder och vad de kostar.",
+    "correct_category": "other"
+  },
+  {
+    "id": 107,
+    "subject": "Extra kostnad igen",
+    "text": "Varför har ni lagt till 79 kronor på min faktura? Jag känner inte igen den avgiften.",
+    "correct_category": "invoice"
+  },
+  {
+    "id": 108,
+    "subject": "Moving abroad",
+    "text": "Hi, I am moving to Germany and no longer need my Swedish mobile subscription. Please close it.",
+    "correct_category": "cancellation"
+  },
+  {
+    "id": 109,
+    "subject": "Billigare alternativ",
+    "text": "Jag betalar för mycket för mitt nuvarande abonnemang och vill gå ner till ett mindre paket.",
+    "correct_category": "plan_change"
+  },
+  {
+    "id": 110,
+    "subject": "SMS går inte fram",
+    "text": "Jag kan ringa och använda internet men inga SMS skickas. De står bara som misslyckade.",
+    "correct_category": "technical_issue"
+  },
+  {
+    "id": 111,
+    "subject": "Port my number",
+    "text": "Can I move my current number from another Swedish operator to your service?",
+    "correct_category": "number_transfer"
+  },
+  {
+    "id": 112,
+    "subject": "Behöver nytt SIM-kort",
+    "text": "Hej, mitt SIM-kort är gammalt och jag undrar hur jag beställer ett nytt. Telefonen fungerar fortfarande.",
+    "correct_category": "other"
+  }
+]

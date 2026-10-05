@@ -1,6 +1,6 @@
 import json
 
-with open("data/emails.json", "r", encoding="utf-8") as file:
+with open("data/emails_test.json", "r", encoding="utf-8") as file:
     emails = json.load(file)
 
 for email in emails:
