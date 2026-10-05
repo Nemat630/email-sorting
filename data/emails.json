@@ -3,108 +3,144 @@
     "id": 1,
     "subject": "Fel belopp på min faktura",
     "text": "Hej, jag fick en faktura på 450 kr men mitt abonnemang kostar 199 kr. Kan ni kontrollera varför beloppet är så högt?",
-    "correct_category": "invoice"
+    "correct_category": "invoice",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 2,
     "subject": "Vill avsluta mitt abonnemang",
     "text": "Hej, jag vill säga upp mitt mobilabonnemang så snart som möjligt. Mitt kundnummer är 845921.",
-    "correct_category": "cancellation"
+    "correct_category": "cancellation",
+    "correct_customer_number": "845921",
+    "correct_phone_number": null
   },
   {
     "id": 3,
     "subject": "Byta till billigare abonnemang",
     "text": "Jag använder nästan ingen surf längre och vill byta från mitt nuvarande abonnemang till ett billigare alternativ.",
-    "correct_category": "plan_change"
+    "correct_category": "plan_change",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 4,
     "subject": "Internet fungerar inte",
     "text": "Hej. Mobildatan har slutat fungera sedan igår. Jag har startat om telefonen flera gånger men det hjälper inte.",
-    "correct_category": "technical_issue"
+    "correct_category": "technical_issue",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 5,
     "subject": "Flytta mitt nummer till er",
     "text": "Jag har abonnemang hos en annan operatör men vill behålla mitt nuvarande nummer när jag byter till Fibio. Hur gör jag?",
-    "correct_category": "number_transfer"
+    "correct_category": "number_transfer",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 6,
     "subject": "Fråga om öppettider",
     "text": "Hej, vilka tider har er kundservice öppet på lördagar?",
-    "correct_category": "other"
+    "correct_category": "other",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 7,
     "subject": "Varför har jag fått extra avgift?",
     "text": "Jag fattar inte varför det är 99 kr extra på senaste räkningen. Har inte beställt något extra vad jag vet.",
-    "correct_category": "invoice"
+    "correct_category": "invoice",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 8,
     "subject": "Behöver inte abonnemanget längre",
     "text": "Tjena, jag ska flytta utomlands nästa månad så behöver inte mobilen hos er längre. Nummer 0701234567.",
-    "correct_category": "cancellation"
+    "correct_category": "cancellation",
+    "correct_customer_number": null,
+    "correct_phone_number": "0701234567"
   },
   {
     "id": 9,
     "subject": "Mer surf",
     "text": "Hej! Jag har 10 GB nu men det räcker inte. Kan jag ändra till ett abonnemang med 50 GB?",
-    "correct_category": "plan_change"
+    "correct_category": "plan_change",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 10,
     "subject": "Kan inte ringa",
     "text": "Min telefon visar täckning men alla samtal bryts direkt när jag försöker ringa. SMS fungerar ibland.",
-    "correct_category": "technical_issue"
+    "correct_category": "technical_issue",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 11,
     "subject": "Behålla telefonnummer",
     "text": "Hej, jag tänker byta operatör till er. Kan jag ta med nummer 0735558822 eller måste jag få ett nytt nummer?",
-    "correct_category": "number_transfer"
+    "correct_category": "number_transfer",
+    "correct_customer_number": null,
+    "correct_phone_number": "0735558822"
   },
   {
     "id": 12,
     "subject": "Problem med faktura och vill byta abonnemang",
     "text": "Min faktura blev mycket dyrare den här månaden. Jag funderar också på att byta till ert billigaste abonnemang eftersom jag knappt använder någon surf.",
-    "correct_category": "invoice"
+    "correct_category": "invoice",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 13,
     "subject": "Det funkar typ inte",
     "text": "Hej det har varit jättesegt hela dagen och ibland står det ingen service. Vet inte vad som är fel.",
-    "correct_category": "technical_issue"
+    "correct_category": "technical_issue",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 14,
     "subject": "Cancel my subscription",
     "text": "Hi, I am leaving Sweden next month and would like to cancel my mobile subscription. Customer number 381740.",
-    "correct_category": "cancellation"
+    "correct_category": "cancellation",
+    "correct_customer_number": "381740",
+    "correct_phone_number": null
   },
   {
     "id": 15,
     "subject": "Keep my old number",
     "text": "Hello, I want to become a customer but I need to keep my current Swedish phone number. Is number portability possible?",
-    "correct_category": "number_transfer"
+    "correct_category": "number_transfer",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 16,
     "subject": "Ingen aning vad som hänt",
     "text": "Hej, mobilen slutade fungera ordentligt efter lunch. Jag kan inte använda internet och samtalen går inte fram.",
-    "correct_category": "technical_issue"
+    "correct_category": "technical_issue",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 17,
     "subject": "Ändra abonnemang men fakturan verkar också fel",
     "text": "Jag vill byta till 20 GB från nästa månad. Förresten står det 349 kr på fakturan fast jag brukar betala 249 kr.",
-    "correct_category": "plan_change"
+    "correct_category": "plan_change",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   },
   {
     "id": 18,
     "subject": "Kan jag få eSIM?",
     "text": "Hej, jag har köpt en ny telefon och undrar om ni erbjuder eSIM istället för vanligt SIM-kort.",
-    "correct_category": "other"
+    "correct_category": "other",
+    "correct_customer_number": null,
+    "correct_phone_number": null
   }
 ]
