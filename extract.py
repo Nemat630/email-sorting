@@ -79,12 +79,30 @@ Email text:
         }
 
 
+results = []
+
 for email in emails:
     result = analyze_email(email)
 
+    output = {
+        "id": email["id"],
+        "subject": email["subject"],
+        "category": result["category"],
+        "customer_number": result["customer_number"],
+        "phone_number": result["phone_number"]
+    }
+
+    results.append(output)
+
     print("-" * 60)
-    print("ID:", email["id"])
-    print("Subject:", email["subject"])
-    print("Category:", result["category"])
-    print("Customer number:", result["customer_number"])
-    print("Phone number:", result["phone_number"])
+    print("ID:", output["id"])
+    print("Subject:", output["subject"])
+    print("Category:", output["category"])
+    print("Customer number:", output["customer_number"])
+    print("Phone number:", output["phone_number"])
+
+
+with open("data/results.json", "w", encoding="utf-8") as file:
+    json.dump(results, file, ensure_ascii=False, indent=2)
+
+print("\nResults saved to data/results.json")

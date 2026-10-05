@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "subject": "Fel belopp på min faktura",
+    "category": "invoice",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 2,
+    "subject": "Vill avsluta mitt abonnemang",
+    "category": "cancellation",
+    "customer_number": "845921",
+    "phone_number": null
+  },
+  {
+    "id": 3,
+    "subject": "Byta till billigare abonnemang",
+    "category": "plan_change",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 4,
+    "subject": "Internet fungerar inte",
+    "category": "technical_issue",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 5,
+    "subject": "Flytta mitt nummer till er",
+    "category": "number_transfer",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 6,
+    "subject": "Fråga om öppettider",
+    "category": "other",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 7,
+    "subject": "Varför har jag fått extra avgift?",
+    "category": "invoice",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 8,
+    "subject": "Behöver inte abonnemanget längre",
+    "category": "cancellation",
+    "customer_number": null,
+    "phone_number": "0701234567"
+  },
+  {
+    "id": 9,
+    "subject": "Mer surf",
+    "category": "plan_change",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 10,
+    "subject": "Kan inte ringa",
+    "category": "technical_issue",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 11,
+    "subject": "Behålla telefonnummer",
+    "category": "number_transfer",
+    "customer_number": null,
+    "phone_number": "0735558822"
+  },
+  {
+    "id": 12,
+    "subject": "Problem med faktura och vill byta abonnemang",
+    "category": "invoice",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 13,
+    "subject": "Det funkar typ inte",
+    "category": "technical_issue",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 14,
+    "subject": "Cancel my subscription",
+    "category": "cancellation",
+    "customer_number": "381740",
+    "phone_number": null
+  },
+  {
+    "id": 15,
+    "subject": "Keep my old number",
+    "category": "number_transfer",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 16,
+    "subject": "Ingen aning vad som hänt",
+    "category": "technical_issue",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 17,
+    "subject": "Ändra abonnemang men fakturan verkar också fel",
+    "category": "plan_change",
+    "customer_number": null,
+    "phone_number": null
+  },
+  {
+    "id": 18,
+    "subject": "Kan jag få eSIM?",
+    "category": "technical_issue",
+    "customer_number": null,
+    "phone_number": null
+  }
+]
